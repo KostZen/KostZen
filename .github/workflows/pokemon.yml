@@ -1,0 +1,22 @@
+name: Readme Pokemon
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  update-pokemon:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-base: '16'
+
+      - name: Run Pokemon Engine
+        uses: PolyMeilex/readme-pokemon@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Использует стандартный токен, ничего настраивать не нужно
