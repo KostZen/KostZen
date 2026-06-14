@@ -26,3 +26,6 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: no
           plugin_pagespeed: no
+          # Включение 3D-календаря коммитов
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year # Полноразмерный календарь на весь год
