@@ -11,10 +11,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: ВашНикнеймНаGitHub # Замените на свой ник
+          user: KostZen # Замените на свой ник
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Moscow # Укажите ваш часовой пояс
+          config_timezone: Europe/Kaliningrad # Укажите ваш часовой пояс
           
           # Настройки плагинов как на скриншоте:
           plugin_languages: yes
