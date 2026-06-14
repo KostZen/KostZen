@@ -1,3 +1,4 @@
 Hi! i am KostZen 👋
-![GitHub Metrics](https://githubusercontent.com)
+![GitHub Metrics](github-metrics.svg)
+
 
