@@ -7,9 +7,10 @@
 </p>
 
 <div align="center">
-  <!-- Скрипт сам добавит сюда карточку покемона после первого кормления -->
-  <img src="https://githubusercontent.com" alt="My Pokemon" />
+  <!-- Картинка покемона -->
+  <img src="pokemon.svg" alt="My Pokemon" />
 </div>
+
 
 ![GitHub Metrics](github-metrics.svg)
 
