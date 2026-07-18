@@ -1,6 +1,6 @@
 # Привет, я KostZen 👋
 
-Я развиваю AI-инструменты, Telegram-ботов, автоматизацию, проекты на базе GitHub/Codex, MCP-серверы и веб-проекты.
+Я развиваю AI-инструменты, Telegram-ботов, автоматизацию, проекты на базе GitHub/Codex, MCP-серверы, self-hosted инфраструктуру и веб-проекты.
 
 ## Чем занимаюсь
 
@@ -8,6 +8,7 @@
 - Telegram bots
 - GitHub / Codex workflows
 - MCP servers
+- Self-hosted infrastructure и безопасный удалённый доступ
 - Web / landing pages
 - Автоматизация малого бизнеса
 - Real estate marketing tools
@@ -17,6 +18,7 @@
 ### Open Source
 
 - [Production-Ready-MCP-Servers-for-Claude-Code](https://github.com/KostZen/Production-Ready-MCP-Servers-for-Claude-Code) — каталог MCP-серверов для Claude Code, Cursor и AI coding agents
+- [hybrid-vpn-free](https://github.com/KostZen/hybrid-vpn-free) — открытый набор русскоязычных инструкций и скриптов для гибридной VPN-сети на Tailscale, Ubuntu, Windows 11 и WSL
 
 ### AI / Bots
 
@@ -31,10 +33,10 @@
 
 ## Сейчас изучаю
 
-- Codex
-- GitHub workflow
-- AI-агенты
-- MCP
+- Codex и GitHub workflows
+- AI-агентов и MCP
+- Self-hosted инфраструктуру
+- Tailscale, WireGuard и сетевую безопасность
 - Telegram automation
 - Web-проекты и лендинги
 
@@ -42,9 +44,12 @@
 
 - Python
 - JavaScript / Node.js
+- Bash / Linux / WSL
+- Docker
 - Git / GitHub
 - Telegram Bot API
 - HTML / CSS
+- Tailscale / WireGuard
 - AI tools
 - Codex
 
