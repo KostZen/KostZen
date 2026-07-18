@@ -32,19 +32,21 @@
 
 ### Open Source
 
-- [Production-Ready-MCP-Servers-for-Claude-Code](https://github.com/KostZen/Production-Ready-MCP-Servers-for-Claude-Code) — каталог MCP-серверов для Claude Code, Cursor и AI coding agents
+- [KostZen/Production-Ready-MCP-Servers-for-Claude-Code](https://github.com/KostZen/Production-Ready-MCP-Servers-for-Claude-Code) — каталог MCP-серверов для Claude Code, Cursor и AI coding agents
 - [hybrid-vpn-free](https://github.com/KostZen/hybrid-vpn-free) — открытый набор русскоязычных инструкций и скриптов для гибридной VPN-сети на Tailscale, Ubuntu, Windows 11 и WSL
 
-### AI / Bots
+### AI / Bots (private / in development)
 
-- voicebox — проект, связанный с voice/AI
-- telegram-voice-tasks — Telegram-бот для голосовых задач
-- ai-telegram-channel — автоматизация Telegram-канала
+- `voicebox` — проект, связанный с voice/AI
+- `telegram-voice-tasks` — Telegram-бот для голосовых задач
+- `ai-telegram-channel` — автоматизация Telegram-канала
 
-### Web / Real Estate
+### Web / Real Estate (private / in development)
 
-- selma-townhouse-landing — лендинг для продажи таунхауса
-- selma-townhouse-static — статическая версия/материалы проекта
+- `selma-townhouse-landing` — лендинг для продажи таунхауса
+- `selma-townhouse-static` — статическая версия/материалы проекта
+
+[Все публичные репозитории →](https://github.com/KostZen?tab=repositories)
 
 ## Сейчас изучаю
 
